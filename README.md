@@ -1,8 +1,16 @@
 ### Hi there 👋
 
+
+* I am an EECS undergrad at IISER Bhopal.
+* I am interested in the domain of quantum engineering.
+* 🔭 I’m currently working on : Quantum Sensing For HEP and QML for Astronomy.
+* 👯 I’m looking to collaborate on anything related to Astroinformatics, Radio Interferometry, Quantum AI, Fabrication of Quantum devices, Quantum Chaos, Quantum ML and ML algorithms for Physics.
+* 💬 Ask me about : Anything, I would love to learn something new ! I enjoy poetry, western classics, quizzing, tennis, gardening, glass painting , music and love discussing about history, contemporary politics, conflict studies and international diplomacy. I like playing around with Cellular Automata and exploring fractals in my free time.
+* 📫 How to reach me: Mail at [rita19@iiserb.ac.in](rita19@iiserb.ac.in) or [LinkedIn](https://www.linkedin.com/in/rita-abani/) 
+* 😄 Pronouns : She/Her
+* ⚡ Fun fact : I love eating and exploring different cuisines but don't know how to cook XD !
 <!--
 **DRA-chaos/DRA-chaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
