@@ -12,8 +12,12 @@
 
 Check out my [webpage](https://sites.google.com/view/ritaabani/home?authuser=2) to know more about me ! 
 
+Other links :<br/>
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ritaabani.blogspot.com/)
+
 [![Twitter Badge](https://img.shields.io/badge/-@DRA_chaos-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DRA_chaos)](https://twitter.com/DRA_chaos) 
 
+[ResearchGate](https://www.researchgate.net/profile/Rita-Abani/research)
 
 <!--
 ## Github Stats
