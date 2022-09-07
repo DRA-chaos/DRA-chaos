@@ -3,7 +3,6 @@
 
 * My name is Rita Abani and I am an EECS undergrad at IISER Bhopal.
 * I am broadly interested in the domain of quantum engineering.
-* 🔭 I’m currently working on : Quantum Sensing and QML.
 * 👯 I’m looking to collaborate on anything related to Astroinformatics, Radio Interferometry, Fabrication of Quantum devices, Quantum ML and ML algorithms for Physics.
 * 💬 Ask me about : Anything, I would love to learn something new ! I enjoy poetry, western classics, quizzing, tennis, gardening, glass painting , music and love discussing about history, contemporary politics, conflict studies and international diplomacy. I like playing around with Cellular Automata and exploring fractals in my free time.
 * 📫 How to reach me: Mail at [rita19@iiserb.ac.in](rita19@iiserb.ac.in) or [LinkedIn](https://www.linkedin.com/in/rita-abani/). 
@@ -17,7 +16,6 @@ Other links :<br/>
 
 [![Twitter Badge](https://img.shields.io/badge/-@DRA_chaos-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DRA_chaos)](https://twitter.com/DRA_chaos) 
 
-[ResearchGate](https://www.researchgate.net/profile/Rita-Abani/research)
 
 <!--
 ## Github Stats
